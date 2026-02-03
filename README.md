@@ -1,16 +1,38 @@
-## Hi there 👋
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Vansh%20Jain&fontSize=40&fontColor=fff&animation=twinkling" width="100%"/>
+</div>
 
-<!--
-**Vanshjain8929/Vanshjain8929** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+  💻 Aspiring Software Engineer | 🌐 Web Developer | 🧠 DSA Enthusiast
+</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  Solving problems • Building projects • Learning every day 🚀
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <a href="https://github.com/Vanshjain8929">
+    <img src="https://img.shields.io/badge/GitHub-Vanshjain8929-181717?style=for-the-badge&logo=github"/>
+  </a>
+</div>
+
+---
+
+## 👋 About Me
+
+```yaml
+name: Vansh Jain
+role: Computer Science Student
+location: India 🇮🇳
+interests:
+  - Data Structures & Algorithms
+  - Full Stack Web Development
+  - Problem Solving (LeetCode)
+skills:
+  - C++
+  - JavaScript
+  - HTML, CSS
+  - React (learning)
+current_focus:
+  - Competitive Programming
+  - Building real-world web projects
